@@ -1,4 +1,4 @@
-# LSBuilder
+# LSBuilder!
 
 **LSBuilder** ist ein Repository zur Erstellung von **SchuCu-BBS-konformen Lernsituationen** (berufsbildende Schulen Niedersachsen) auf Basis der Leitlinie **„Schulisches Curriculum berufsbildende Schulen (SchuCu-BBS) 2024/07“**.
 
