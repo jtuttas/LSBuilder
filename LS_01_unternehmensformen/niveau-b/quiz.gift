@@ -1,0 +1,84 @@
+::Rechtsformen Kategorisierung::
+[markdown]Ordnen Sie die folgenden Unternehmensformen richtig zu:\n{
+=Einzelunternehmen -> Keine Gesellschaft
+=GbR -> Personengesellschaft
+=OHG -> Personengesellschaft
+=KG -> Personengesellschaft
+=GmbH -> Kapitalgesellschaft
+=AG -> Kapitalgesellschaft
+}
+
+::GmbH Merkmale::
+[markdown]Welche Aussagen zur GmbH sind korrekt?{
+~%50%Das Mindeststammkapital beträgt 25.000 Euro
+~%50%Die Haftung ist auf das Gesellschaftsvermögen beschränkt
+~%-50%Die Gesellschafter haften mit ihrem Privatvermögen
+~%-50%Es ist keine Eintragung ins Handelsregister erforderlich
+}
+
+::KG Charakteristik::
+[markdown]Was unterscheidet eine Kommanditgesellschaft (KG) von einer OHG?{
+=Bei der KG gibt es Komplementäre und Kommanditisten mit unterschiedlicher Haftung
+~Bei der KG haften alle Gesellschafter beschränkt
+~Die KG ist eine Kapitalgesellschaft
+~Die KG benötigt kein Handelsregister
+}
+
+::Haftungsvergleich::
+[markdown]Ist die folgende Aussage richtig oder falsch?\n"Bei einer GbR haften alle Gesellschafter gesamtschuldnerisch mit ihrem Privatvermögen."{TRUE}
+
+::UG vs GmbH::
+[markdown]Was trifft auf die Unternehmergesellschaft (UG) zu?{
+~%33%Sie wird auch als "Mini-GmbH" bezeichnet
+~%33%Das Mindeststammkapital beträgt 1 Euro
+~%34%Sie muss 25% des Jahresüberschusses als Rücklage bilden
+~%-50%Sie ist keine eigenständige Rechtsform
+}
+
+::Gesellschaftsvertrag::
+[markdown]Bei welchen Rechtsformen ist ein schriftlicher Gesellschaftsvertrag zwingend erforderlich?{
+~%33%GmbH
+~%33%AG
+~%34%KG (für Handelsregister)
+~%-50%GbR
+}
+
+::Vor- und Nachteile GmbH::
+[markdown]Welche der folgenden Punkte sind Vorteile einer GmbH?{
+~%50%Beschränkte Haftung
+~%50%Größere Kreditwürdigkeit
+~%-50%Geringer Verwaltungsaufwand
+~%-50%Keine Publizitätspflichten
+}
+
+::AG Grundkapital::
+[markdown]Wie hoch ist das Mindestgrundkapital einer Aktiengesellschaft (AG)?{
+~25.000 Euro
+~100.000 Euro
+=50.000 Euro
+~10.000 Euro
+}
+
+::Einzelunternehmen steuerlich::
+[markdown]Welche Steuerart zahlt ein Einzelunternehmer NICHT?{
+~Einkommensteuer
+~Gewerbesteuer (ab bestimmten Freibeträgen)
+~Umsatzsteuer
+=Körperschaftsteuer
+}
+
+::OHG Gründung::
+[markdown]Was ist für die Gründung einer OHG erforderlich?{
+~%25%Mindestens zwei Gesellschafter
+~%25%Ein Handelsgewerbe
+~%25%Eintragung ins Handelsregister
+~%25%Gesellschaftsvertrag (kann auch mündlich sein)
+}
+
+::Rechtsformwahl Szenario::
+[markdown]Ein IT-Start-up mit zwei Gründern plant ein schnelles Wachstum und möchte die Haftung beschränken, hat aber nur begrenztes Startkapital. Welche Rechtsform ist am geeignetsten?{
+~GbR
+=UG (haftungsbeschränkt)
+~AG
+~Einzelunternehmen
+}

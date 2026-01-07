@@ -5,3 +5,7 @@ docs_dir: docs
 
 nav:
   - Start: index.md
+  - Lernsituationen:
+    - Übersicht: lernsituationen/index.md
+    - Lernfeld 1:
+      - LS 1.1 Unternehmensformen: lernsituationen/LS_01_unternehmensformen/index.md
