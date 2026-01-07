@@ -14,4 +14,16 @@ Unterstützung eines IT-Start-ups bei der Wahl einer geeigneten Unternehmensform
 
 ---
 
+## Lernfeld 5: Software zur Verwaltung von Daten anpassen
+
+### LS 5.1: Datenstrukturen für die Softwareentwicklung auswählen und anwenden
+**Bildungsgang:** Fachinformatiker/-in (FI)  
+**Zeitrichtwert:** 6 Unterrichtsstunden
+
+Auswahl geeigneter Datenstrukturen für eine Kundenverwaltungs- und Bestellanwendung unter Berücksichtigung von Performance, Speicherverbrauch und Wartbarkeit.
+
+[Zur Lernsituation](LS_05_datenstrukturen/index.md)
+
+---
+
 Weitere Lernsituationen werden nach und nach ergänzt.

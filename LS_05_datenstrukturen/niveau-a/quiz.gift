@@ -1,0 +1,79 @@
+::Datenstruktur Array::
+[markdown]Was ist ein charakteristisches Merkmal eines Arrays?{
+=Die Elemente haben eine feste Reihenfolge und können über einen Index angesprochen werden
+~Die Größe kann dynamisch zur Laufzeit beliebig verändert werden
+~Duplikate sind nicht erlaubt
+~Es kann nur Zahlen speichern
+}
+
+::Stack Prinzip::
+[markdown]Nach welchem Prinzip arbeitet ein Stack (Stapel)?{
+=Last-In-First-Out (LIFO)
+~First-In-First-Out (FIFO)
+~Random Access
+~Sortiert
+}
+
+::Queue Prinzip::
+[markdown]Nach welchem Prinzip arbeitet eine Queue (Warteschlange)?{
+=First-In-First-Out (FIFO)
+~Last-In-First-Out (LIFO)
+~Random Access
+~Alphabetisch sortiert
+}
+
+::Liste Eigenschaft::
+[markdown]Was ist ein Vorteil einer verketteten Liste gegenüber einem Array?{
+=Elemente können effizient eingefügt und gelöscht werden
+~Der Zugriff auf ein beliebiges Element ist immer schneller
+~Sie benötigt weniger Speicherplatz
+~Sie ist einfacher zu implementieren
+}
+
+::Stack Operation::
+[markdown]Wie nennt man die Operation, mit der ein Element auf einen Stack gelegt wird?{
+=Push
+~Pop
+~Enqueue
+~Add
+}
+
+::Queue Operation::
+[markdown]Wie nennt man die Operation, mit der ein Element aus einer Queue entfernt wird?{
+=Dequeue
+~Push
+~Pop
+~Remove
+}
+
+::Array Index::
+[markdown]Bei welchem Index beginnt in den meisten Programmiersprachen die Nummerierung eines Arrays?{
+=0
+~1
+~-1
+~Es hängt von der Programmiersprache ab
+}
+
+::Anwendungsfall Stack::
+[markdown]Für welchen Anwendungsfall ist ein Stack besonders geeignet?{
+=Rückgängig-Funktion (Undo)
+~Verwaltung einer Druckerwarteschlange
+~Alphabetische Sortierung von Namen
+~Speicherung eindeutiger Werte
+}
+
+::Datenstruktur Größe::
+[markdown]Welche Aussage über die Größe von Datenstrukturen ist korrekt?{
+~Ein Array kann jederzeit beliebig vergrößert werden
+=Eine Liste kann dynamisch wachsen und schrumpfen
+~Ein Stack hat immer eine feste maximale Größe
+~Eine Queue kann nicht leer sein
+}
+
+::Stack vs Queue::
+[markdown]Was unterscheidet einen Stack von einer Queue hauptsächlich?{
+=Die Reihenfolge, in der Elemente entnommen werden
+~Die maximale Anzahl der Elemente
+~Der verwendete Datentyp der Elemente
+~Die Programmiersprache, in der sie verwendet werden
+}
