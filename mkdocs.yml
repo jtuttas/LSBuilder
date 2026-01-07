@@ -1,0 +1,7 @@
+site_name: LSBuilder
+site_url: https://<DEIN-GITHUB-USERNAME>.github.io/<DEIN-REPO-NAME>/
+
+docs_dir: docs
+
+nav:
+  - Start: index.md
