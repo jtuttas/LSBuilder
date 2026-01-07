@@ -4,4 +4,16 @@
          <loc>https://&lt;DEIN-GITHUB-USERNAME&gt;.github.io/&lt;DEIN-REPO-NAME&gt;/</loc>
          <lastmod>2026-01-07</lastmod>
     </url>
+    <url>
+         <loc>https://&lt;DEIN-GITHUB-USERNAME&gt;.github.io/&lt;DEIN-REPO-NAME&gt;/lernsituationen/</loc>
+         <lastmod>2026-01-07</lastmod>
+    </url>
+    <url>
+         <loc>https://&lt;DEIN-GITHUB-USERNAME&gt;.github.io/&lt;DEIN-REPO-NAME&gt;/lernsituationen/LS_01_unternehmensformen/</loc>
+         <lastmod>2026-01-07</lastmod>
+    </url>
+    <url>
+         <loc>https://&lt;DEIN-GITHUB-USERNAME&gt;.github.io/&lt;DEIN-REPO-NAME&gt;/lernsituationen/LS_01_unternehmensformen/lernsituation/</loc>
+         <lastmod>2026-01-07</lastmod>
+    </url>
 </urlset>

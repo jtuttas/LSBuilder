@@ -1,0 +1,79 @@
+::Unternehmensformen Grundlagen::
+[markdown]Welche der folgenden Aussagen über Unternehmensformen ist korrekt?{
+=Eine GmbH ist eine Kapitalgesellschaft
+~Eine GbR ist eine Kapitalgesellschaft
+~Ein Einzelunternehmen ist eine Kapitalgesellschaft
+~Eine OHG ist eine Kapitalgesellschaft
+}
+
+::Haftung Einzelunternehmen::
+[markdown]Wie haftet der Inhaber eines Einzelunternehmens?{
+=Mit seinem gesamten Privatvermögen
+~Nur mit dem Betriebsvermögen
+~Gar nicht
+~Nur bis zur Höhe der Einlage
+}
+
+::GmbH Mindestkapital::
+[markdown]Wie hoch ist das Mindeststammkapital einer GmbH?{
+=25.000 Euro
+~10.000 Euro
+~50.000 Euro
+~5.000 Euro
+}
+
+::GbR Gründung::
+[markdown]Wie viele Personen werden mindestens für die Gründung einer GbR benötigt?{
+=2 Personen
+~1 Person
+~3 Personen
+~5 Personen
+}
+
+::Kapitalgesellschaft Merkmal::
+[markdown]Was ist ein Hauptmerkmal von Kapitalgesellschaften?{
+~Die Gesellschafter haften unbeschränkt
+=Die Haftung ist auf das Gesellschaftsvermögen beschränkt
+~Es ist keine Eintragung ins Handelsregister erforderlich
+~Sie können nur von einer Person gegründet werden
+}
+
+::Personengesellschaft Beispiel::
+[markdown]Welche der folgenden ist eine Personengesellschaft?{
+~GmbH
+=OHG
+~AG
+~UG
+}
+
+::AG Abkürzung::
+[markdown]Wofür steht die Abkürzung AG?{
+=Aktiengesellschaft
+~Arbeitsgemeinschaft
+~Allgemeine Gesellschaft
+~Anlagengesellschaft
+}
+
+::Handelsregister::
+[markdown]Welche Unternehmensform muss NICHT ins Handelsregister eingetragen werden?{
+~GmbH
+~AG
+=Kleingewerbe (Einzelunternehmen unter bestimmten Voraussetzungen)
+~OHG
+}
+
+::UG Besonderheit::
+[markdown]Was ist eine Besonderheit der Unternehmergesellschaft (UG)?{
+=Sie kann mit einem geringeren Stammkapital als die GmbH gegründet werden
+~Sie muss mindestens 5 Gesellschafter haben
+~Sie darf keine Gewinne erwirtschaften
+~Sie ist keine eigenständige Rechtsform
+}
+
+::Rechtsformwahl Kriterien::
+[markdown]Welches Kriterium ist bei der Wahl der Rechtsform NICHT relevant?{
+~Haftungsrisiko
+~Kapitalbedarf
+=Persönliche Haarfarbe des Gründers
+~Verwaltungsaufwand
+}
