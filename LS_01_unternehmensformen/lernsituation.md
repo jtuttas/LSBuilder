@@ -4,7 +4,7 @@
 
 | Lernfeld | Bildungsgang | Ausbildungsjahr |
 | :--- | :--- | :---: |
-| 1:</br>$\newline$Das Unternehmen und die eigene Rolle im Betrieb beschreiben | Fachinformatiker/-in (FI) | 1 |
+| 1:Das Unternehmen und die eigene Rolle im Betrieb beschreiben | Fachinformatiker/-in (FI) | 1 |
 
 ### Kompetenzformulierung
 

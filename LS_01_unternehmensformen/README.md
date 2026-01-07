@@ -38,6 +38,7 @@ Ein junges Start-up-Unternehmen im IT-Bereich plant die Gründung eines neuen Ge
 ## Dateien
 
 - [lernsituation.md](lernsituation.md) - Vollständige Lernsituationsbeschreibung (SchuCu-BBS-konform)
+- [Lernsituation (PDF)](lernsituation.pdf)
 - [niveau-a/quiz.gift](niveau-a/quiz.gift) - Moodle-Quiz für Niveau A
 - [niveau-b/quiz.gift](niveau-b/quiz.gift) - Moodle-Quiz für Niveau B
 - [niveau-c/quiz.gift](niveau-c/quiz.gift) - Moodle-Quiz für Niveau C

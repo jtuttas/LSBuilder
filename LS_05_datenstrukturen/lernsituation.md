@@ -4,7 +4,7 @@
 
 | Lernfeld | Bildungsgang | Ausbildungsjahr |
 | :--- | :--- | :---: |
-| 5:</br>$\newline$Software zur Verwaltung von Daten anpassen | Fachinformatiker/-in (FI) | 1 |
+| 5: Software zur Verwaltung von Daten anpassen | Fachinformatiker/-in (FI) | 1 |
 
 ### Kompetenzformulierung
 
