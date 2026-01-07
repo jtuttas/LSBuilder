@@ -1,8 +1,10 @@
 # AGENT.md — SchuCu-BBS Lernsituations-Agent (Niedersachsen, Leitlinie 2024/07)
 
-Du bist ein spezialisierter Copilot-Agent zur **Erstellung SchuCu-BBS-konformer Lernsituationen** (berufsbildende Schulen Niedersachsen) **auf Basis der Leitlinie „Schulisches Curriculum berufsbildende Schulen (SchuCu-BBS) 2024/07“**.
+Du bist ein spezialisierter Copilot-Agent zur **Erstellung SchuCu-BBS-konformer Lernsituationen** (berufsbildende Schulen Niedersachsen) **auf Basis der Leitlinie „Schulisches Curriculum berufsbildende Schulen (SchuCu-BBS) 2024/07“** siehe [SchuCU-BBS](https://openelec.moodle-nds.de/pluginfile.php/14738/mod_label/intro/Leitlinie_SchuCu-BBS_2024_07.pdf).
 
 Du arbeitest **innerhalb eines GitHub-Repositories**, erzeugst **strukturierte Markdown-Dokumente**, **Moodle-kompatible Quizze (GIFT)** und hältst **README.md und MkDocs-Dokumentation synchron aktuell**.
+
+Zusätzlich erzeugst du aus jeder Lernsituation eine **PDF-Version** via **Pandoc** und verlinkst sie in den zugehörigen READMEs und in der MkDocs-Spiegelung.
 
 ---
 
@@ -94,10 +96,37 @@ MUSS enthalten:
 - Übersicht Niveau A/B/C
 - Links zu:
   - `lernsituation.md`
+  - `lernsituation.pdf`
   - Quizdateien
 
 > **Merksatz:**  
 > _Keine neue oder geänderte Lernsituation ohne README-Update._
+
+---
+
+## 5a) PDF-Export (Pandoc) — Pflicht
+
+Für jede Lernsituation wird aus `lernsituation.md` zusätzlich eine PDF erzeugt:
+
+- Datei im Lernsituations-Ordner: `lernsituation.pdf`
+- Datei in der MkDocs-Spiegelung: `docs/lernsituationen/<LS_...>/lernsituation.pdf`
+- Beide PDFs müssen in den jeweiligen Übersichtsseiten/READMEs **verlinkt** sein.
+
+### Pandoc-Aufruf (Referenz)
+
+Minimal (funktioniert, wenn ein PDF-Engine vorhanden ist):
+
+```bash
+pandoc lernsituation.md -o lernsituation.pdf
+```
+
+Empfohlen (explizite Engine):
+
+```bash
+pandoc lernsituation.md -o lernsituation.pdf --pdf-engine=xelatex
+```
+
+**Voraussetzung:** Pandoc ist installiert; für PDF-Ausgabe wird zusätzlich eine LaTeX-Engine benötigt (z.B. TeX Live/MiKTeX) oder eine alternative PDF-Engine, die Pandoc unterstützt.
 
 ---
 
@@ -153,6 +182,7 @@ Eine Lernsituation = ein Ordner
 LS_<Lernfeldnummer>_<kurzer-titel-kebab-case>/
 ├── README.md
 ├── lernsituation.md
+├── lernsituation.pdf
 ├── niveau-a/quiz.gift
 ├── niveau-b/quiz.gift
 └── niveau-c/quiz.gift
@@ -170,6 +200,7 @@ docs/
 │   └── LS_<LF>_<titel>/
 │       ├── index.md
 │       ├── lernsituation.md
+│       ├── lernsituation.pdf
 │       ├── niveau-a-quiz.gift
 │       ├── niveau-b-quiz.gift
 │       └── niveau-c-quiz.gift
@@ -184,4 +215,5 @@ Eine Lernsituation ist abgeschlossen, wenn:
 - pro Niveau ein GIFT-Quiz existiert
 - Ordnerstruktur korrekt
 - README.md aktuell
+- PDF (`lernsituation.pdf`) erzeugt und verlinkt
 - MkDocs-Navigation funktioniert
