@@ -9,3 +9,5 @@ nav:
     - Übersicht: lernsituationen/index.md
     - Lernfeld 1:
       - LS 1.1 Unternehmensformen: lernsituationen/LS_01_unternehmensformen/index.md
+    - Lernfeld 5:
+      - LS 5.1 Datenstrukturen: lernsituationen/LS_05_datenstrukturen/index.md

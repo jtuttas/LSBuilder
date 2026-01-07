@@ -103,3 +103,12 @@ Hinweis: In [mkdocs.yml](mkdocs.yml) ist `site_url` projektspezifisch.
 - **Zeitrichtwert:** 4 Unterrichtsstunden
 - **Thema:** Recherche und Analyse verschiedener Unternehmensformen zur Unterstützung eines IT-Start-ups bei der Rechtsformwahl
 - [Zur Lernsituation](LS_01_unternehmensformen/)
+
+### Lernfeld 5: Software zur Verwaltung von Daten anpassen
+
+#### LS 5.1: Datenstrukturen für die Softwareentwicklung auswählen und anwenden
+- **Bildungsgang:** Fachinformatiker/-in (FI)
+- **Ausbildungsjahr:** 1
+- **Zeitrichtwert:** 6 Unterrichtsstunden
+- **Thema:** Auswahl geeigneter Datenstrukturen (Arrays, Listen, Stacks, Queues, Sets, Maps) für eine Kundenverwaltungs- und Bestellanwendung
+- [Zur Lernsituation](LS_05_datenstrukturen/)

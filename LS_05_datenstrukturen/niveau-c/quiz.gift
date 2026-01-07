@@ -1,0 +1,95 @@
+::Komplexitätsanalyse::
+[markdown]Welche Zeitkomplexität hat die Suche nach einem Element in einer unsortierten verketteten Liste?{
+=O(n) - lineare Zeit
+~O(1) - konstante Zeit
+~O(log n) - logarithmische Zeit
+~O(n log n)
+}
+
+::Hash-Kollision::
+[markdown]Was versteht man unter einer Hash-Kollision in einer Hash-Tabelle?{
+=Zwei verschiedene Schlüssel erzeugen denselben Hash-Wert
+~Die Hash-Tabelle ist vollständig gefüllt
+~Ein Schlüssel wird zweimal eingefügt
+~Der Hash-Algorithmus ist fehlerhaft
+}
+
+::Amortisierte Analyse::
+[markdown]Bei welcher Operation einer dynamischen Array-Liste (ArrayList) spielt amortisierte Zeitkomplexität eine Rolle?{
+=Beim Hinzufügen eines Elements, wenn die Kapazität überschritten wird
+~Beim Zugriff über Index
+~Beim Lesen des ersten Elements
+~Beim Überprüfen der Größe
+}
+
+::Memory Layout::
+[markdown]Wie unterscheiden sich Arrays und verkettete Listen in der Speicherorganisation?{
+=Arrays speichern Elemente zusammenhängend im Speicher, Listen verstreut mit Zeigern
+~Listen speichern Elemente immer schneller
+~Arrays benötigen mehr Speicher für Zeiger
+~Es gibt keinen Unterschied in der Speicherorganisation
+}
+
+::Binary Search Tree::
+[markdown]Welche Eigenschaft muss ein binärer Suchbaum (BST) erfüllen?{
+=Linke Kindknoten sind kleiner, rechte Kindknoten größer als der Elternknoten
+~Alle Knoten müssen genau zwei Kinder haben
+~Der Baum muss immer vollständig ausgeglichen sein
+~Nur Blattknoten können Werte speichern
+}
+
+::Load Factor Hash::
+[markdown]Was beschreibt der Load Factor (Füllgrad) einer Hash-Tabelle?{
+=Das Verhältnis der gespeicherten Elemente zur Kapazität der Tabelle
+~Die maximale Anzahl von Kollisionen
+~Die Geschwindigkeit der Hash-Funktion
+~Die Größe der gespeicherten Werte
+}
+
+::Datenstruktur Trade-offs::
+[markdown]Welche Aussagen über Trade-offs bei Datenstrukturen sind korrekt?{
+~%33%Arrays bieten schnellen Indexzugriff, aber langsames Einfügen/Löschen
+~%33%Hash-Tabellen bieten schnelle Suche, benötigen aber mehr Speicher
+~%34%Bäume ermöglichen sortierte Speicherung mit logarithmischer Komplexität
+~%-100%Eine Datenstruktur ist immer in allen Aspekten optimal
+}
+
+::Graph Repräsentation::
+[markdown]Ordnen Sie die Eigenschaften den Graphen-Repräsentationen zu:{
+=Adjazenzmatrix -> O(1) Zugriff zum Prüfen ob Kante existiert
+=Adjazenzliste -> Speichereffizient für dünn besetzte Graphen
+=Adjazenzmatrix -> Benötigt O(V²) Speicher
+=Adjazenzliste -> Schnelle Iteration über Nachbarn
+}
+
+::Priority Queue Implementierung::
+[markdown]Welche Datenstruktur wird üblicherweise für eine effiziente Priority Queue verwendet?{
+=Heap (Binär-Heap)
+~Einfach verkettete Liste
+~Array
+~Stack
+}
+
+::Cache-Freundlichkeit::
+[markdown]Warum sind Arrays oft cache-freundlicher als verkettete Listen?{
+=Durch zusammenhängende Speicherung profitieren sie von räumlicher Lokalität
+~Sie sind kleiner
+~Sie verwenden weniger Zeiger
+~Sie sind einfacher zu implementieren
+}
+
+::Persistente Datenstrukturen::
+[markdown]Was zeichnet persistente (immutable) Datenstrukturen aus?{
+=Änderungen erzeugen eine neue Version, die alte bleibt erhalten
+~Sie werden auf der Festplatte gespeichert
+~Sie können nicht gelöscht werden
+~Sie sind immer schneller als normale Strukturen
+}
+
+::Self-Balancing Trees::
+[markdown]Welche Aussagen über selbstbalancierende Bäume (z.B. AVL, Red-Black) sind korrekt?{
+~%50%Sie garantieren O(log n) für Suche, Einfügen und Löschen
+~%50%Sie führen Rotationen durch, um Balance zu erhalten
+~%-50%Sie sind immer perfekt ausgeglichen
+~%-50%Sie sind einfacher zu implementieren als BST
+}
