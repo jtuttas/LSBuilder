@@ -18,6 +18,7 @@ Ein junges Start-up-Unternehmen im IT-Bereich plant die Gründung eines neuen Ge
 ## Materialien
 
 - [Vollständige Lernsituationsbeschreibung](lernsituation.md)
+- [Lernsituation (PDF)](lernsituation.pdf)
 - [Quiz Niveau A (Basis)](niveau-a-quiz.gift)
 - [Quiz Niveau B (Standard)](niveau-b-quiz.gift)
 - [Quiz Niveau C (Erweitert)](niveau-c-quiz.gift)
