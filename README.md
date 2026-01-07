@@ -88,3 +88,14 @@ Hinweis: In [mkdocs.yml](mkdocs.yml) ist `site_url` projektspezifisch.
 ---
 
 **Status:** Initiales Projektgerüst (MkDocs + Deployment-Workflow). Lernsituationen werden als Ordner `LS_*` hinzugefügt.
+
+## Verfügbare Lernsituationen
+
+### Lernfeld 1: Das Unternehmen und die eigene Rolle im Betrieb beschreiben
+
+#### LS 1.1: Unternehmensformen verstehen und auswählen
+- **Bildungsgang:** Fachinformatiker/-in (FI)
+- **Ausbildungsjahr:** 1
+- **Zeitrichtwert:** 4 Unterrichtsstunden
+- **Thema:** Recherche und Analyse verschiedener Unternehmensformen zur Unterstützung eines IT-Start-ups bei der Rechtsformwahl
+- [Zur Lernsituation](LS_01_unternehmensformen/)
