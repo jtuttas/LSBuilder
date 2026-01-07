@@ -1,0 +1,95 @@
+::Set Eigenschaft::
+[markdown]Was ist eine charakteristische Eigenschaft eines Sets (Menge)?{
+=Es speichert nur eindeutige Elemente ohne Duplikate
+~Es speichert Elemente in einer festen Reihenfolge
+~Es kann nur Zahlen enthalten
+~Es hat immer genau 10 Elemente
+}
+
+::Map Struktur::
+[markdown]Wie speichert eine Map (Dictionary) Daten?{
+=Als Schlüssel-Wert-Paare
+~Als einfache Liste
+~Als Baum
+~Als Stack
+}
+
+::Zeitkomplexität Array::
+[markdown]Welche Zeitkomplexität hat der Zugriff auf ein Element in einem Array über den Index?{
+=O(1) - konstante Zeit
+~O(n) - lineare Zeit
+~O(log n) - logarithmische Zeit
+~O(n²) - quadratische Zeit
+}
+
+::LinkedList vs ArrayList::
+[markdown]Welche Aussage über verkettete Listen (LinkedList) im Vergleich zu Array-basierten Listen ist korrekt?{
+=LinkedList ist effizienter beim Einfügen und Löschen von Elementen am Anfang
+~ArrayList ist immer besser als LinkedList
+~LinkedList ermöglicht schnelleren Zugriff über Index
+~Beide haben identische Performance-Eigenschaften
+}
+
+::Hash Map Vorteil::
+[markdown]Was ist der Hauptvorteil einer Hash Map?{
+=Sehr schnelle Suche nach einem Schlüssel (durchschnittlich O(1))
+~Sortierte Speicherung der Elemente
+~Geringer Speicherverbrauch
+~Einfache Implementierung
+}
+
+::Stack Anwendung::
+[markdown]In welcher dieser Situationen würden Sie einen Stack verwenden?{
+~%50%Auswertung von Klammerausdrücken in einem Compiler
+~%50%Speicherung des Browserverlaufs für Zurück-Navigation
+~%-50%Verwaltung von Druckaufträgen
+~%-50%Speicherung von Benutzernamen ohne Duplikate
+}
+
+::Datenstruktur Auswahl::
+[markdown]Ordnen Sie die Datenstrukturen den Anwendungsfällen zu:{
+=Stack -> Rückgängig-Funktion (Undo)
+=Queue -> Druckerwarteschlange
+=Set -> Speicherung eindeutiger E-Mail-Adressen
+=Map -> Zuordnung Produktcode zu Preis
+}
+
+::Big-O Notation::
+[markdown]Was bedeutet O(n) in der Big-O-Notation?{
+=Die Ausführungszeit wächst linear mit der Anzahl der Elemente
+~Die Ausführungszeit ist konstant
+~Die Ausführungszeit wächst logarithmisch
+~Die Ausführungszeit ist optimal
+}
+
+::ArrayList Nachteil::
+[markdown]Was ist ein Nachteil einer ArrayList beim Einfügen von Elementen in der Mitte?{
+=Alle nachfolgenden Elemente müssen verschoben werden (O(n))
+~Es ist nicht möglich, in der Mitte einzufügen
+~Die ArrayList wird ungültig
+~Der Speicher wird verdoppelt
+}
+
+::TreeSet vs HashSet::
+[markdown]Was unterscheidet ein TreeSet von einem HashSet?{
+=TreeSet speichert Elemente sortiert, HashSet unsortiert
+~TreeSet erlaubt Duplikate, HashSet nicht
+~TreeSet ist immer schneller als HashSet
+~TreeSet kann nur Zahlen speichern
+}
+
+::Deque Funktionalität::
+[markdown]Was ermöglicht eine Deque (Double-Ended Queue) im Gegensatz zu einer einfachen Queue?{
+=Einfügen und Entfernen an beiden Enden
+~Nur Einfügen am Ende
+~Sortierte Speicherung
+~Automatisches Löschen alter Elemente
+}
+
+::Map Schlüssel::
+[markdown]Welche Anforderung stellen die meisten Map-Implementierungen an Schlüssel?{
+=Schlüssel müssen eindeutig sein
+~Schlüssel müssen Zahlen sein
+~Schlüssel müssen sortierbar sein
+~Schlüssel müssen Strings sein
+}
