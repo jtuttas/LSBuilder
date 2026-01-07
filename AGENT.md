@@ -126,6 +126,27 @@ Empfohlen (explizite Engine):
 pandoc lernsituation.md -o lernsituation.pdf --pdf-engine=xelatex
 ```
 
+### Randüberläufe vermeiden (Pflicht)
+
+Die erzeugte PDF darf **keinen Text enthalten, der über den Seitenrand hinausragt** (z.B. in Tabellen, bei langen Wörtern/IDs oder URLs).
+
+Standard-Aufruf (A4 + Ränder + Umbruch-Hilfen):
+
+```bash
+pandoc lernsituation.md \
+  -o lernsituation.pdf \
+  --pdf-engine=xelatex \
+  --lua-filter=./pandoc/wrap-tables.lua \
+  -V papersize=a4 \
+  -V geometry:margin=20mm \
+  --include-in-header=./pandoc/header.tex
+```
+
+Hinweise, falls es trotzdem überläuft:
+
+- Lange URLs/IDs: im Markdown auf mehrere Zeilen aufteilen oder kürzen.
+- Tabellen: Inhalte knapper formulieren (oder Zeilenumbrüche in Zellen einfügen), da sehr breite Tabellen im PDF sonst nicht sauber umbrechen.
+
 **Voraussetzung:** Pandoc ist installiert; für PDF-Ausgabe wird zusätzlich eine LaTeX-Engine benötigt (z.B. TeX Live/MiKTeX) oder eine alternative PDF-Engine, die Pandoc unterstützt.
 
 ---

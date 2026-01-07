@@ -1,0 +1,16 @@
+% Pandoc header to reduce overfull lines / margin overflows
+% Used by: pandoc ... --include-in-header=./pandoc/header.tex
+
+\usepackage{microtype}
+\usepackage{xurl} % allows line breaks in URLs
+\usepackage{array}
+\usepackage{ltablex} % better long tables with wrapping columns
+\keepXColumns
+
+% Make LaTeX more tolerant with line breaking to avoid text protruding into margins
+\setlength{\emergencystretch}{3em}
+\sloppy
+
+% Slightly tighter tables help fit content
+\setlength{\tabcolsep}{4pt}
+\renewcommand{\arraystretch}{1.15}
