@@ -162,9 +162,11 @@ Platzhalter `{{ }}` müssen vollständig ersetzt werden.
 
 | Lernfeld | Bildungsgang | Ausbildungsjahr |
 | :--- | :--- | :---: |
-| {{Lernfeldnummer}}:</br>$\newline${{Lernfeldbezeichnung}} | {{Bildungsgang}} ({{Bildungsgang Abkürzung}}) | {{Ausbildungsjahr}} |
+| {{Lernfeldnummer}}:</br> {{Lernfeldbezeichnung}} | {{Bildungsgang}} ({{Bildungsgang Abkürzung}}) | {{Ausbildungsjahr}} |
 
 ### Kompetenzformulierung
+
+{{Beschreibung der notwendigen Kompetenzen}}
 
 | Curricularer Bezug | Titel der Lernsituation (Kurzfassung) | Geplanter Zeitrichtwert |
 | :--- | :--- | :---: |
