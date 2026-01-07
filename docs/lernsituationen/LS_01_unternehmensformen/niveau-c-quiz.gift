@@ -1,0 +1,93 @@
+::Komplementär vs Kommanditist::
+[markdown]Vergleichen Sie die Stellung von Komplementär und Kommanditist in einer KG:{
+=Komplementär -> Haftet unbeschränkt
+=Kommanditist -> Haftet beschränkt auf die Einlage
+=Komplementär -> Hat volle Geschäftsführungsbefugnis
+=Kommanditist -> Kann von Geschäftsführung ausgeschlossen werden
+}
+
+::Steuerliche Unterschiede::
+[markdown]Welche Aussagen zu steuerlichen Aspekten verschiedener Rechtsformen sind korrekt?{
+~%33%Personengesellschaften unterliegen der Einkommensteuer (über die Gesellschafter)
+~%34%Kapitalgesellschaften unterliegen der Körperschaftsteuer
+~%33%Bei Kapitalgesellschaften kommt es zur Doppelbesteuerung (Körperschaft- und Einkommensteuer)
+~%-50%Die GbR zahlt Körperschaftsteuer
+}
+
+::Publizitätspflichten::
+[markdown]Welche Rechtsformen unterliegen erweiterten Publizitätspflichten (Veröffentlichung von Jahresabschlüssen)?{
+~%50%GmbH
+~%50%AG
+~%-50%Einzelunternehmen
+~%-50%GbR
+}
+
+::GmbH & Co. KG::
+[markdown]Was ist der Hauptvorteil einer GmbH & Co. KG gegenüber einer normalen KG?{
+=Auch der Komplementär (die GmbH) haftet nur beschränkt
+~Sie zahlt weniger Steuern
+~Sie benötigt kein Stammkapital
+~Sie muss nicht ins Handelsregister eingetragen werden
+}
+
+::Organstruktur AG::
+[markdown]Welche Organe hat eine Aktiengesellschaft (AG)?{
+~%33%Vorstand
+~%34%Aufsichtsrat
+~%33%Hauptversammlung
+~%-50%Gesellschafterversammlung
+}
+
+::Rechtsformwandel::
+[markdown]Ist die folgende Aussage richtig?\n"Eine UG kann später in eine GmbH umgewandelt werden, wenn das Stammkapital auf 25.000 Euro erhöht wurde."{TRUE}
+
+::Haftungsrisiko IT-Branche::
+[markdown]Ein IT-Unternehmen entwickelt Software für kritische Infrastrukturen. Welche Rechtsform minimiert das persönliche Haftungsrisiko der Gründer am besten?{
+~OHG
+~GbR
+=GmbH
+~Einzelunternehmen
+}
+
+::Kapitalbeschaffung::
+[markdown]Welche Rechtsform eignet sich am besten für die Aufnahme von Eigenkapital durch viele Investoren?{
+~GmbH
+=AG
+~KG
+~GbR
+}
+
+::Geschäftsführung GmbH::
+[markdown]Wer vertritt eine GmbH nach außen?{
+=Der/die Geschäftsführer
+~Die Gesellschafter
+~Der Aufsichtsrat
+~Die Hauptversammlung
+####Die Geschäftsführer werden von den Gesellschaftern bestellt und vertreten die GmbH nach außen.
+}
+
+::Gründungskosten Vergleich::
+[markdown]Ordnen Sie die Rechtsformen nach typischen Gründungskosten (niedrig zu hoch):{
+=1 -> Einzelunternehmen
+=2 -> GbR
+=3 -> UG
+=4 -> GmbH
+=5 -> AG
+}
+
+::Rechtsformoptimierung Szenario::
+[markdown]Ein etabliertes IT-Beratungsunternehmen (aktuell GbR mit 3 Partnern, Jahresumsatz 500.000 Euro) möchte expandieren und Investoren aufnehmen. Welche Faktoren sprechen für einen Wechsel zur GmbH?{
+~%25%Beschränkung der persönlichen Haftung
+~%25%Höhere Kreditwürdigkeit bei Banken
+~%25%Professionelleres Image gegenüber Großkunden
+~%25%Möglichkeit, Geschäftsanteile an Investoren zu verkaufen
+}
+
+::Stille Gesellschaft::
+[markdown]Was charakterisiert eine stille Gesellschaft?{
+=Der stille Gesellschafter beteiligt sich nur mit einer Vermögenseinlage
+~Der stille Gesellschafter haftet unbeschränkt
+~Die stille Gesellschaft ist eine eigenständige Rechtsform
+~Der stille Gesellschafter muss ins Handelsregister eingetragen werden
+####Bei der stillen Gesellschaft beteiligt sich der stille Gesellschafter nur mit einer Vermögenseinlage am Handelsgewerbe eines anderen, tritt aber nicht nach außen in Erscheinung.
+}
