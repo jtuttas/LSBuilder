@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-         <loc>https://&lt;DEIN-GITHUB-USERNAME&gt;.github.io/&lt;DEIN-REPO-NAME&gt;/</loc>
+         <loc>https://jtuttas.github.io/LSBuilder/</loc>
          <lastmod>2026-01-07</lastmod>
     </url>
     <url>
-         <loc>https://&lt;DEIN-GITHUB-USERNAME&gt;.github.io/&lt;DEIN-REPO-NAME&gt;/lernsituationen/</loc>
+         <loc>https://jtuttas.github.io/LSBuilder/lernsituationen/</loc>
          <lastmod>2026-01-07</lastmod>
     </url>
     <url>
-         <loc>https://&lt;DEIN-GITHUB-USERNAME&gt;.github.io/&lt;DEIN-REPO-NAME&gt;/lernsituationen/LS_01_unternehmensformen/</loc>
+         <loc>https://jtuttas.github.io/LSBuilder/lernsituationen/LS_01_unternehmensformen/</loc>
          <lastmod>2026-01-07</lastmod>
     </url>
     <url>
-         <loc>https://&lt;DEIN-GITHUB-USERNAME&gt;.github.io/&lt;DEIN-REPO-NAME&gt;/lernsituationen/LS_01_unternehmensformen/lernsituation/</loc>
+         <loc>https://jtuttas.github.io/LSBuilder/lernsituationen/LS_01_unternehmensformen/lernsituation/</loc>
          <lastmod>2026-01-07</lastmod>
     </url>
 </urlset>
