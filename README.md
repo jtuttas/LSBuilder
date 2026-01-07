@@ -2,6 +2,10 @@
 
 **LSBuilder** ist ein Repository zur Erstellung von **SchuCu-BBS-konformen Lernsituationen** (berufsbildende Schulen Niedersachsen) auf Basis der Leitlinie **„Schulisches Curriculum berufsbildende Schulen (SchuCu-BBS) 2024/07“**.
 
+**Beispielprompt:**
+
+> Erstelle mir für das Lernfeld 1 für Ausbildungsberuf Fachinfomatiker eine Lernsituation mit einem Umfang von ca. 3-5 Unterrichtsstunden zum Thema Unternehmensformen
+
 Das Projekt ist darauf ausgelegt, pro Thema/Lernfeld:
 - strukturierte **Markdown-Dokumente** für Lernsituationen zu erzeugen,
 - eine **dreistufige Differenzierung** (Niveau A/B/C) abzubilden,
