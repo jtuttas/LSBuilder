@@ -166,7 +166,7 @@ Platzhalter `{{ }}` müssen vollständig ersetzt werden.
 
 ### Kompetenzformulierung
 
-{{Beschreibung der notwendigen Kompetenzen}}
+{{Beschreibung der Kompetenzen die in der Lernsituation erworben werden sollen.}}
 
 | Curricularer Bezug | Titel der Lernsituation (Kurzfassung) | Geplanter Zeitrichtwert |
 | :--- | :--- | :---: |
