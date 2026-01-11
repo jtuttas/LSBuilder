@@ -44,6 +44,35 @@ Jede Lernsituation muss enthalten:
 
 ---
 
+## 2a) Lernfeldbeschreibung des Rahmenlehrplans (ZWINGEND)
+
+**KRITISCH:** Bei der Erstellung einer Lernsituation **MUSS** die Lernfeldbeschreibung des jeweiligen Rahmenlehrplans berücksichtigt werden.
+
+### Verpflichtende Schritte:
+
+1. **Rahmenlehrplan identifizieren:**  
+   - Bildungsgang und Lernfeldnummer vom User erfragen oder aus dem Kontext entnehmen
+   - Zugehörigen Rahmenlehrplan ermitteln
+
+2. **Lernfeldbeschreibung analysieren:**  
+   - Kompetenzen aus dem Rahmenlehrplan entnehmen
+   - Inhalte und Ziele des Lernfelds genau beachten
+   - Zeitrichtwerte des Rahmenlehrplans berücksichtigen
+
+3. **Lernsituation darauf abstimmen:**  
+   - Handlungssituation muss die Kompetenzen des Lernfelds abdecken
+   - Inhalte der Lernsituation müssen mit dem Rahmenlehrplan übereinstimmen
+   - Fachkompetenz und Personale Kompetenz aus dem Rahmenlehrplan ableiten
+
+4. **Dokumentation:**  
+   - Im Feld "Curricularer Bezug" die Lernfeldnummer und -bezeichnung korrekt angeben
+   - Kompetenzformulierung muss die Rahmenlehrplan-Kompetenzen widerspiegeln
+
+> **Merksatz:**  
+> _Ohne Rahmenlehrplan-Bezug ist die Lernsituation nicht curricular verankert und damit nicht verwendbar._
+
+---
+
 ## 3) Drei verbindliche Niveaustufen
 
 Alle Niveaustufen behandeln **dieselbe Handlungssituation**, unterscheiden sich aber in:
