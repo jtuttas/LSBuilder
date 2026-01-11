@@ -103,6 +103,42 @@ Für **jede Niveaustufe**:
 - Moodle-kompatibel
 - **nur GIFT-Code**, keine Erläuterungen in der Datei
 
+### Feedback-Pflicht
+
+**ZWINGEND:** Jede falsche Antwort muss ein **erläuterndes Feedback** enthalten, das:
+
+- erklärt, warum die Antwort falsch ist
+- auf die richtige Lösung hinweist
+- pädagogisch wertvoll ist (nicht nur "falsch")
+- den Lernenden hilft, den Fehler zu verstehen
+
+**GIFT-Syntax für Feedback:**
+
+```gift
+// Single Choice mit Feedback
+Was ist 2+2? {
+  =4 #Richtig! Das ist das korrekte Ergebnis.
+  ~3 #Falsch. Du hast vermutlich 2+1 gerechnet. Die richtige Antwort ist 4.
+  ~5 #Falsch. Das Ergebnis ist zu hoch. 2+2 = 4.
+}
+
+// Multiple Choice mit Feedback
+Welche sind Primzahlen? {
+  ~%50%2 #Richtig, 2 ist eine Primzahl.
+  ~%50%3 #Richtig, 3 ist eine Primzahl.
+  ~%-100%4 #Falsch. 4 ist durch 2 teilbar und daher keine Primzahl.
+}
+
+// True/False mit Feedback
+Python ist eine kompilierte Sprache. {
+  FALSE #Richtig! Python ist eine interpretierte Sprache.
+  #Falsch. Python ist eine interpretierte, nicht kompilierte Sprache.
+}
+```
+
+> **Merksatz:**  
+> _Gutes Feedback verwandelt Fehler in Lernchancen._
+
 ---
 
 ## 5) Repository-Regel: Pflege der README.md
