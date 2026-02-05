@@ -112,3 +112,12 @@ Hinweis: In [mkdocs.yml](mkdocs.yml) ist `site_url` projektspezifisch.
 - **Zeitrichtwert:** 6 Unterrichtsstunden
 - **Thema:** Auswahl geeigneter Datenstrukturen (Arrays, Listen, Stacks, Queues, Sets, Maps) für eine Kundenverwaltungs- und Bestellanwendung
 - [Zur Lernsituation](LS_05_datenstrukturen/)
+
+### Lernfeld 8: Konstruktionen und Systeme instand halten
+
+#### LS 8.1: Zaunanlage planen, herstellen und instand setzen
+- **Bildungsgang:** Metallbauer/-in (MB)
+- **Ausbildungsjahr:** 2
+- **Zeitrichtwert:** 6 Unterrichtsstunden
+- **Thema:** Inspektion und Instandsetzung einer bestehenden Zaunanlage sowie Planung, Kalkulation und Montage einer neuen Zaunanlage unter Berücksichtigung von Normen, Korrosionsschutz und Wirtschaftlichkeit
+- [Zur Lernsituation](LS_08_zaunbau/)

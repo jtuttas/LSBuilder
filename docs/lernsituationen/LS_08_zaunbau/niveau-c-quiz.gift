@@ -1,0 +1,95 @@
+::Korrosionsarten Unterscheidung::
+[markdown]Welche Korrosionsart tritt typischerweise auf, wenn verzinkter Stahl mit Edelstahl in Kontakt kommt und Feuchtigkeit vorhanden ist?{
+=Kontaktkorrosion (galvanische Korrosion) #Richtig! Bei Kontakt unterschiedlicher Metalle in feuchter Umgebung entsteht ein galvanisches Element, das zur beschleunigten Korrosion des unedleren Metalls (Zink) führt.
+~Spannungsrisskorrosion #Falsch. Diese entsteht bei mechanischer Spannung und korrosivem Medium. Beim Kontakt verschiedener Metalle entsteht Kontaktkorrosion.
+~Lochfraßkorrosion #Falsch. Diese entsteht lokal an Schwachstellen der Passivschicht. Beim Kontakt verschiedener Metalle entsteht Kontaktkorrosion (galvanische Korrosion).
+~Schwingungsrisskorrosion #Falsch. Diese entsteht durch zyklische Belastung. Beim Kontakt verschiedener Metalle entsteht Kontaktkorrosion (galvanische Korrosion).
+}
+
+::Statik Windlast Berechnung::
+[markdown]Nach welcher Norm wird die Windlast für eine Zaunanlage in Deutschland berechnet?{
+=DIN EN 1991-1-4 (Eurocode 1) #Richtig! Diese Norm definiert die Windlasten für Tragwerke in Europa, einschließlich Zäune.
+~DIN 748 #Falsch. DIN 748 regelt allgemeine Anforderungen an Zäune, aber nicht die Windlastberechnung. Richtig ist DIN EN 1991-1-4 (Eurocode 1).
+~DIN EN 13241 #Falsch. Diese Norm gilt für Tore. Windlasten werden nach DIN EN 1991-1-4 (Eurocode 1) berechnet.
+~DIN 18800 #Falsch. Diese alte Norm wurde durch den Eurocode ersetzt. Aktuell gilt DIN EN 1991-1-4 (Eurocode 1).
+}
+
+::Schweißnahtprüfung::
+[markdown]Welche zerstörungsfreien Prüfverfahren eignen sich zur Qualitätskontrolle von Schweißnähten an Zaunanlagen?{
+~%50%Sichtprüfung mit Schweißnahtlehren #Richtig! Sichtprüfung ist das wichtigste und wirtschaftlichste Verfahren für Schweißnähte an Zäunen.
+~%50%Magnetpulverprüfung #Richtig! Eignet sich gut zur Erkennung von Oberflächenrissen bei ferromagnetischen Werkstoffen wie Stahl.
+~%-100%Röntgenprüfung #Falsch. Röntgen ist zu aufwendig und teuer für Zaunanlagen. Sichtprüfung und Magnetpulverprüfung sind hier angemessen.
+~%-100%Ultraschallprüfung #Falsch. Ultraschall ist für dünne Bleche und einfache Konstruktionen unwirtschaftlich. Sichtprüfung und Magnetpulverprüfung sind hier angemessen.
+}
+
+::DIN EN 1090 Anforderungen::
+[markdown]Was regelt die DIN EN 1090 für tragende Stahlkonstruktionen?{
+~%33.33%Anforderungen an die Herstellung und Qualitätssicherung #Richtig! DIN EN 1090 definiert Herstellungsanforderungen und Qualitätsmanagementsysteme.
+~%33.33%Schweißerqualifikationen und Schweißverfahrensprüfungen #Richtig! Die Norm fordert qualifizierte Schweißer und geprüfte Schweißverfahren.
+~%33.33%Dokumentation und Kennzeichnung #Richtig! Rückverfolgbarkeit durch Dokumentation und CE-Kennzeichnung ist vorgeschrieben.
+~%-100%Preisgestaltung für Stahlkonstruktionen #Falsch. Normen regeln keine Preise. DIN EN 1090 regelt Herstellung, Qualifikationen und Dokumentation.
+}
+
+::Lebenszykluskosten Analyse::
+[markdown]Bei einer Lebenszykluskostenanalyse für eine Zaunanlage mit 40 Jahren Nutzungsdauer\: Ein feuerverzinkter Zaun kostet 15.000 € (keine Wartungskosten), ein lackierter Zaun 10.000 € (Neulackierung alle 8 Jahre à 3.000 €). Was ist wirtschaftlicher?{
+=Feuerverzinkter Zaun #Richtig! Feuerverzinkt\: 15.000 €. Lackiert\: 10.000 € + 5 × 3.000 € \= 25.000 €. Feuerverzinkung ist langfristig wirtschaftlicher.
+~Lackierter Zaun #Falsch. Rechnung\: Lackiert kostet 10.000 € + 5 Neulackierungen (40 Jahre ÷ 8) × 3.000 € \= 25.000 €. Feuerverzinkt kostet nur 15.000 € und ist damit wirtschaftlicher.
+~Beide gleich teuer #Falsch. Lackiert\: 10.000 € + 15.000 € Wartung \= 25.000 €. Feuerverzinkt\: 15.000 €. Feuerverzinkung ist wirtschaftlicher.
+~Nicht berechenbar ohne weitere Angaben #Falsch. Alle notwendigen Daten sind gegeben. Feuerverzinkt (15.000 €) ist wirtschaftlicher als lackiert (25.000 €).
+}
+
+::Nachhaltigkeit CO2-Bilanz::
+[markdown]Welche Faktoren sollten bei der CO₂-Bilanz einer Zaunanlage berücksichtigt werden?{
+~%25%Herstellung der Werkstoffe (Stahlproduktion, Verzinkung) #Richtig! Die Materialherstellung hat großen Einfluss auf die CO₂-Bilanz.
+~%25%Transport der Materialien zur Baustelle #Richtig! Transportwege beeinflussen die Gesamtbilanz erheblich.
+~%25%Wartungsaufwand über die Lebensdauer #Richtig! Häufige Wartung und Ersatzteile erhöhen den CO₂-Fußabdruck.
+~%25%Recyclingfähigkeit am Ende der Nutzungsdauer #Richtig! Stahl ist gut recycelbar, was die Gesamtbilanz verbessert.
+}
+
+::Grenzabstände und Baurecht::
+[markdown]Welche rechtlichen Aspekte müssen bei der Planung einer Zaunanlage an der Grundstücksgrenze beachtet werden?{
+~%33.33%Landesbauordnung (Grenzabstände, Höhenbeschränkungen) #Richtig! Länderspezifische Bauvorschriften regeln Abstände und Höhen.
+~%33.33%Nachbarschaftsrecht (Einverständnis bei Grenzbebauung) #Richtig! Zäune direkt auf der Grenze erfordern oft Zustimmung des Nachbarn.
+~%33.33%Bebauungsplan (gestalterische Vorgaben) #Richtig! Bebauungspläne können Material, Farbe und Höhe vorschreiben.
+~%-100%Bundesweit einheitliche Vorschriften #Falsch. Baurecht ist Ländersache. Wichtig sind Landesbauordnung, Nachbarschaftsrecht und Bebauungsplan.
+}
+
+::Korrosionsschutzsysteme Duplex::
+[markdown]Was versteht man unter einem Duplex-System beim Korrosionsschutz?{
+=Kombination von Feuerverzinkung und Beschichtung für maximalen Schutz #Richtig! Duplex kombiniert metallischen (Zink) und organischen (Lack) Schutz für Synergieeffekte und sehr lange Lebensdauer.
+~Zweifache Feuerverzinkung #Falsch. Doppeltes Verzinken gibt es nicht. Duplex ist die Kombination von Verzinkung und Beschichtung.
+~Verwendung von zwei verschiedenen Stahlsorten #Falsch. Das ist kein Korrosionsschutzsystem. Duplex kombiniert Verzinkung und Beschichtung.
+~Korrosionsschutz von beiden Seiten des Bauteils #Falsch. Das ist nicht die Definition. Duplex kombiniert Verzinkung mit Beschichtung für maximalen Schutz.
+}
+
+::Schweißverzug Kompensation::
+[markdown]Wie kann Schweißverzug bei der Herstellung von Zaunelementen minimiert werden?{
+~%33.33%Symmetrische Schweißnahtfolge #Richtig! Wechselseitiges Schweißen gleicht Spannungen aus und reduziert Verzug.
+~%33.33%Verwendung von Vorrichtungen und Spannmitteln #Richtig! Fixierung während des Schweißens verhindert Verformung.
+~%33.33%Reduzierung der Wärmeeinbringung #Richtig! Weniger Wärme bedeutet weniger thermische Ausdehnung und Verzug.
+~%-100%Höhere Schweißgeschwindigkeit bei maximaler Stromstärke #Falsch. Hohe Stromstärke bringt viel Wärme ein und erhöht den Verzug. Richtig sind symmetrische Nahtfolge, Vorrichtungen und reduzierte Wärme.
+}
+
+::Qualitätsmanagement Zertifizierung::
+[markdown]Welche Bedeutung hat die Herstellerzertifizierung nach DIN EN 1090 für einen Metallbaubetrieb?{
+=Sie ist notwendig für CE-Kennzeichnung tragender Stahlkonstruktionen und Marktzugang #Richtig! Ohne EN 1090-Zertifizierung dürfen tragende Konstruktionen nicht in Verkehr gebracht werden.
+~Sie ist eine freiwillige Marketing-Maßnahme ohne rechtliche Bedeutung #Falsch. Die Zertifizierung ist für tragende Konstruktionen gesetzlich vorgeschrieben (CE-Kennzeichnung).
+~Sie ersetzt die Meisterqualifikation #Falsch. Meister und Zertifizierung sind verschiedene Dinge. EN 1090 ist für CE-Kennzeichnung tragender Konstruktionen notwendig.
+~Sie gilt nur für Großprojekte über 100.000 € #Falsch. Die Zertifizierung gilt für alle tragenden Stahlkonstruktionen, unabhängig vom Auftragswert.
+}
+
+::Instandhaltungsstrategien::
+[markdown]Ordnen Sie die Instandhaltungsstrategien richtig zu\:{
+=Reaktive Instandhaltung -> Reparatur nach Schadenseintritt
+=Präventive Instandhaltung -> Wartung nach festem Zeitplan
+=Zustandsbasierte Instandhaltung -> Inspektion und Wartung bei Bedarf nach Zustandsprüfung
+=Vorausschauende Instandhaltung -> Predictive Maintenance mit Sensoren und Datenanalyse
+}
+
+::Innovationen Zaunbau::
+[markdown]Welche modernen Technologien können in Zaunanlagen integriert werden, um den Kundennutzen zu erhöhen?{
+~%25%Elektrische Torantriebe mit Fernsteuerung #Richtig! Automatisierung erhöht den Komfort erheblich.
+~%25%Sensorik für Zutrittskontrolle und Sicherheit #Richtig! Bewegungsmelder und Zugangskontrollen erhöhen die Sicherheit.
+~%25%LED-Beleuchtung für Sicherheit und Gestaltung #Richtig! Integrierte Beleuchtung verbessert Sicherheit und Ästhetik.
+~%-100%Mechanische Schlösser aus dem 19. Jahrhundert #Falsch. Das sind keine modernen Technologien. Modern sind elektrische Antriebe, Sensorik und LED-Beleuchtung.
+}

@@ -1,0 +1,95 @@
+::Lernfeld Metallbauer::
+[markdown]Zu welchem Lernfeld gehört die Wartung und Instandsetzung von Konstruktionen?{
+=Lernfeld 8 #Richtig! Lernfeld 8 behandelt das Instandhalten von Konstruktionen und Systemen.
+~Lernfeld 5 #Falsch. Lernfeld 5 befasst sich mit der Herstellung von Bauelementen mit handgeführten Werkzeugen. Die richtige Antwort ist Lernfeld 8.
+~Lernfeld 3 #Falsch. Lernfeld 3 behandelt die Herstellung von Bauteilen und Baugruppen. Die richtige Antwort ist Lernfeld 8.
+~Lernfeld 1 #Falsch. Lernfeld 1 beschreibt das Unternehmen und die eigene Rolle. Die richtige Antwort ist Lernfeld 8.
+}
+
+::Zaunhöhe Standard::
+[markdown]Welche Höhe hat die zu planende Zaunanlage laut Kundenauftrag?{
+=2,00 Meter #Richtig! Die Zaunanlage soll 2,00 Meter hoch sein.
+~1,50 Meter #Falsch. Diese Höhe ist zu niedrig. Der Kunde wünscht eine Höhe von 2,00 Metern.
+~2,50 Meter #Falsch. Diese Höhe ist zu hoch. Der Kunde wünscht eine Höhe von 2,00 Metern.
+~3,00 Meter #Falsch. Diese Höhe ist viel zu hoch. Der Kunde wünscht eine Höhe von 2,00 Metern.
+}
+
+::Gesamtlänge Zaun::
+[markdown]Wie lang soll die neue Zaunanlage insgesamt sein?{
+=50 Meter #Richtig! Die Gesamtlänge der Zaunanlage beträgt 50 Meter.
+~30 Meter #Falsch. Diese Länge ist zu kurz. Die richtige Gesamtlänge beträgt 50 Meter.
+~75 Meter #Falsch. Diese Länge ist zu lang. Die richtige Gesamtlänge beträgt 50 Meter.
+~100 Meter #Falsch. Diese Länge ist viel zu lang. Die richtige Gesamtlänge beträgt 50 Meter.
+}
+
+::Korrosionsschaden::
+[markdown]Was ist Korrosion bei Metallen?{
+=Die Zerstörung von Metall durch chemische oder elektrochemische Reaktion mit der Umgebung #Richtig! Korrosion ist die Zerstörung von Metall durch Reaktion mit der Umgebung, z.B. Rost.
+~Eine mechanische Verformung des Metalls #Falsch. Verformung ist keine Korrosion. Korrosion ist eine chemische Zerstörung des Metalls durch Reaktion mit der Umgebung.
+~Eine Beschichtung zum Schutz des Metalls #Falsch. Eine Beschichtung schützt vor Korrosion, ist aber nicht die Korrosion selbst. Korrosion ist die Zerstörung von Metall.
+~Eine Legierung aus verschiedenen Metallen #Falsch. Eine Legierung ist eine Metallmischung, keine Korrosion. Korrosion ist die chemische Zerstörung von Metall.
+}
+
+::Verzinkung::
+[markdown]Was bedeutet "verzinkter Stahl"?{
+=Stahl mit einer schützenden Zinkschicht gegen Korrosion #Richtig! Verzinkter Stahl ist mit einer Zinkschicht überzogen, die vor Rost schützt.
+~Stahl, der mit Zinn beschichtet ist #Falsch. Das wäre verzinnter Stahl. Verzinkter Stahl hat eine Zinkschicht als Korrosionsschutz.
+~Stahl ohne besonderen Schutz #Falsch. Verzinkter Stahl hat eine Schutzschicht. Das Zink schützt den Stahl vor Korrosion.
+~Stahl, der galvanisch lackiert wurde #Falsch. Verzinkung ist keine Lackierung. Verzinkter Stahl hat eine metallische Zinkschicht als Korrosionsschutz.
+}
+
+::Eingangstor Breite::
+[markdown]Wie breit soll das zweiflügelige Eingangstor sein?{
+=4,00 Meter #Richtig! Das Eingangstor soll 4,00 Meter breit sein.
+~2,00 Meter #Falsch. Diese Breite ist zu schmal. Die richtige Breite beträgt 4,00 Meter.
+~3,00 Meter #Falsch. Diese Breite ist zu schmal. Die richtige Breite beträgt 4,00 Meter.
+~5,00 Meter #Falsch. Diese Breite ist zu breit. Die richtige Breite beträgt 4,00 Meter.
+}
+
+::Fundament Zweck::
+[markdown]Wozu dient ein Fundament bei einer Zaunanlage?{
+=Es gibt den Pfosten einen stabilen Halt im Boden #Richtig! Das Fundament sorgt für einen festen und stabilen Halt der Zaunpfosten.
+~Es dient als Verzierung des Zauns #Falsch. Fundamente sind keine Dekoration. Sie sorgen für einen stabilen Halt der Pfosten im Boden.
+~Es erhöht die Höhe des Zauns #Falsch. Das Fundament ist im Boden vergraben. Es sorgt für einen stabilen Halt der Pfosten.
+~Es schützt vor Korrosion #Falsch. Korrosionsschutz ist eine andere Maßnahme. Das Fundament gibt den Pfosten einen stabilen Halt im Boden.
+}
+
+::DIN-Norm Bedeutung::
+[markdown]Was sind DIN-Normen?{
+=Technische Regelwerke, die einheitliche Standards festlegen #Richtig! DIN-Normen sind technische Standards für einheitliche Qualität und Sicherheit.
+~Gesetzliche Vorschriften, die immer eingehalten werden müssen #Falsch. DIN-Normen sind meist freiwillig (außer wenn gesetzlich vorgeschrieben). Sie sind technische Regelwerke für einheitliche Standards.
+~Firmenspezifische Arbeitsanweisungen #Falsch. DIN-Normen gelten allgemein, nicht nur für eine Firma. Sie sind technische Regelwerke für einheitliche Standards.
+~Preislisten für Baumaterialien #Falsch. DIN-Normen regeln keine Preise. Sie sind technische Regelwerke für einheitliche Standards und Qualität.
+}
+
+::Persönliche Schutzausrüstung::
+[markdown]Welche persönliche Schutzausrüstung (PSA) ist beim Schweißen notwendig?{
+~%33.33%Schweißerhelm oder Schweißerschutzschild #Richtig! Der Schweißerhelm schützt Augen und Gesicht vor gefährlicher Strahlung.
+~%33.33%Schweißerhandschuhe #Richtig! Schweißerhandschuhe schützen die Hände vor Hitze und Funkenflug.
+~%33.33%Schweißerschutzkleidung #Richtig! Schweißerschutzkleidung schützt den Körper vor Funken und Hitze.
+~%-100%Gehörschutz #Falsch. Gehörschutz ist wichtig bei lauten Arbeiten, aber nicht die wichtigste PSA beim Schweißen. Beim Schweißen sind vor allem Augen-, Hand- und Körperschutz essentiell.
+}
+
+::Wartungsplan Zweck::
+[markdown]Warum ist ein Wartungsplan für eine Zaunanlage wichtig?{
+=Um die Langlebigkeit der Anlage zu sichern und Schäden frühzeitig zu erkennen #Richtig! Regelmäßige Wartung verlängert die Lebensdauer und verhindert größere Schäden.
+~Um die Garantie zu verlängern #Falsch. Ein Wartungsplan dient hauptsächlich dazu, die Langlebigkeit zu sichern und Schäden frühzeitig zu erkennen.
+~Weil es gesetzlich vorgeschrieben ist #Falsch. Ein Wartungsplan ist meist nicht gesetzlich vorgeschrieben. Er dient dazu, die Langlebigkeit zu sichern und Schäden frühzeitig zu erkennen.
+~Um neue Kunden zu gewinnen #Falsch. Das ist kein Hauptzweck eines Wartungsplans. Er dient dazu, die Langlebigkeit zu sichern und Schäden frühzeitig zu erkennen.
+}
+
+::Edelstahl Vorteil::
+[markdown]Was ist ein Vorteil von Edelstahl gegenüber normalem Stahl für Zaunanlagen?{
+=Höhere Korrosionsbeständigkeit #Richtig! Edelstahl rostet nicht oder kaum und ist daher besonders langlebig im Außenbereich.
+~Geringerer Preis #Falsch. Edelstahl ist teurer als normaler Stahl. Der Vorteil von Edelstahl ist die höhere Korrosionsbeständigkeit.
+~Leichteres Gewicht #Falsch. Edelstahl ist nicht unbedingt leichter. Der Vorteil von Edelstahl ist die höhere Korrosionsbeständigkeit.
+~Einfachere Bearbeitung #Falsch. Edelstahl ist schwieriger zu bearbeiten. Der Vorteil ist die höhere Korrosionsbeständigkeit.
+}
+
+::Qualitätskontrolle::
+[markdown]Wann sollte die Qualitätskontrolle bei der Zaunmontage durchgeführt werden?{
+=Während der Arbeit und nach Fertigstellung #Richtig! Qualitätskontrolle sollte kontinuierlich und am Ende erfolgen, um Fehler frühzeitig zu erkennen.
+~Nur vor Beginn der Arbeit #Falsch. Vor Beginn prüft man Materialien, aber die Qualitätskontrolle muss während der Arbeit und nach Fertigstellung erfolgen.
+~Nur nach vollständiger Fertigstellung #Falsch. Dann können Fehler schwer korrigiert werden. Kontrolle sollte während der Arbeit und nach Fertigstellung erfolgen.
+~Gar nicht, wenn erfahrene Fachkräfte arbeiten #Falsch. Qualitätskontrolle ist immer wichtig. Sie sollte während der Arbeit und nach Fertigstellung erfolgen.
+}

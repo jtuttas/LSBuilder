@@ -26,4 +26,16 @@ Auswahl geeigneter Datenstrukturen für eine Kundenverwaltungs- und Bestellanwen
 
 ---
 
+## Lernfeld 8: Konstruktionen und Systeme instand halten
+
+### LS 8.1: Zaunanlage planen, herstellen und instand setzen
+**Bildungsgang:** Metallbauer/-in (MB)  
+**Zeitrichtwert:** 6 Unterrichtsstunden
+
+Inspektion und Instandsetzung einer bestehenden Zaunanlage sowie Planung, Kalkulation und Montage einer neuen Zaunanlage unter Berücksichtigung von Normen, Korrosionsschutz und Wirtschaftlichkeit.
+
+[Zur Lernsituation](LS_08_zaunbau/index.md)
+
+---
+
 Weitere Lernsituationen werden nach und nach ergänzt.
