@@ -87,7 +87,7 @@
 }
 
 ::Dokumentation Wartung::
-[markdown]Ein Wartungsplan für eine Zaunanlage sollte angeben\:{
+[markdown]Ein Wartungsplan für eine Zaunanlage sollte Wartungsintervalle, durchzuführende Tätigkeiten und Prüfpunkte angeben.{
 =TRUE #Richtig! Ein Wartungsplan gibt Wartungsintervalle, durchzuführende Tätigkeiten und Prüfpunkte an.
-#Falsch. Ein professioneller Wartungsplan muss Intervalle, Tätigkeiten und Prüfpunkte enthalten.
-#### Wartungsintervalle, durchzuführende Tätigkeiten und Prüfpunkte}
+~FALSE #Falsch. Ein professioneller Wartungsplan muss Intervalle, Tätigkeiten und Prüfpunkte enthalten.
+}

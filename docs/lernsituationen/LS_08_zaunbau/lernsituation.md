@@ -103,7 +103,7 @@ Die Schülerinnen und Schüler erstellen:
   - Schrauben, Muttern, Beschläge
   - Korrosionsschutzmittel
   
-- **Online-Ressources:**
+- **Online-Resources:**
   - www.metallbau-wiki.de
   - www.dguv.de (Unfallverhütungsvorschriften)
   - www.beuth.de (Normen-Portal)
