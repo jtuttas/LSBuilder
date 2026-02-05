@@ -2,26 +2,34 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://jtuttas.github.io/LSBuilder/</loc>
-         <lastmod>2026-01-11</lastmod>
+         <lastmod>2026-02-05</lastmod>
     </url>
     <url>
          <loc>https://jtuttas.github.io/LSBuilder/lernsituationen/</loc>
-         <lastmod>2026-01-11</lastmod>
+         <lastmod>2026-02-05</lastmod>
     </url>
     <url>
          <loc>https://jtuttas.github.io/LSBuilder/lernsituationen/LS_01_unternehmensformen/</loc>
-         <lastmod>2026-01-11</lastmod>
+         <lastmod>2026-02-05</lastmod>
     </url>
     <url>
          <loc>https://jtuttas.github.io/LSBuilder/lernsituationen/LS_01_unternehmensformen/lernsituation/</loc>
-         <lastmod>2026-01-11</lastmod>
+         <lastmod>2026-02-05</lastmod>
     </url>
     <url>
          <loc>https://jtuttas.github.io/LSBuilder/lernsituationen/LS_05_datenstrukturen/</loc>
-         <lastmod>2026-01-11</lastmod>
+         <lastmod>2026-02-05</lastmod>
     </url>
     <url>
          <loc>https://jtuttas.github.io/LSBuilder/lernsituationen/LS_05_datenstrukturen/lernsituation/</loc>
-         <lastmod>2026-01-11</lastmod>
+         <lastmod>2026-02-05</lastmod>
+    </url>
+    <url>
+         <loc>https://jtuttas.github.io/LSBuilder/lernsituationen/LS_08_zaunbau/</loc>
+         <lastmod>2026-02-05</lastmod>
+    </url>
+    <url>
+         <loc>https://jtuttas.github.io/LSBuilder/lernsituationen/LS_08_zaunbau/lernsituation/</loc>
+         <lastmod>2026-02-05</lastmod>
     </url>
 </urlset>
