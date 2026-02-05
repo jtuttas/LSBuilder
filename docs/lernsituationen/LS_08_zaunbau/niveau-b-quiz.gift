@@ -1,0 +1,93 @@
+::Schadensanalyse Korrosion::
+[markdown]Welche Faktoren begünstigen die Korrosion bei einer Metallzaunanlage im Außenbereich?{
+~%25%Feuchtigkeit und Nässe #Richtig! Wasser ist ein wichtiger Faktor für elektrochemische Korrosion.
+~%25%Salzhaltige Luft (z.B. in Küstennähe) #Richtig! Salz beschleunigt elektrochemische Korrosionsprozesse erheblich.
+~%25%Beschädigte Schutzschichten #Richtig! Beschädigungen ermöglichen direkten Kontakt zwischen Metall und Umgebung.
+~%-100%Niedrige Luftfeuchtigkeit #Falsch. Niedrige Luftfeuchtigkeit verlangsamt die Korrosion. Korrosion wird durch Feuchtigkeit, Salz und beschädigte Schutzschichten begünstigt.
+}
+
+::Korrosionsschutzverfahren::
+[markdown]Welches Korrosionsschutzverfahren bietet den längsten Schutz für Stahlzäune im Außenbereich?{
+=Feuerverzinkung (Stückverzinkung) #Richtig! Feuerverzinkung bildet eine dicke, langlebige Zinkschicht, die 50+ Jahre schützen kann.
+~Anstrich mit Rostschutzfarbe #Falsch. Anstriche müssen regelmäßig erneuert werden. Feuerverzinkung bietet mit 50+ Jahren den längsten Schutz.
+~Galvanische Verzinkung #Falsch. Diese Schicht ist dünner als Feuerverzinkung. Feuerverzinkung bietet den längsten Schutz.
+~Ölen der Oberfläche #Falsch. Öl ist nur ein temporärer Schutz. Feuerverzinkung bietet mit 50+ Jahren den längsten Schutz.
+}
+
+::Statische Berechnung::
+[markdown]Warum muss bei der Planung einer Zaunanlage die Windlast berücksichtigt werden?{
+=Weil Wind große Kräfte auf die Zaunfläche ausübt und die Konstruktion stabil sein muss #Richtig! Wind erzeugt erhebliche Kräfte, die Pfosten und Fundamente aufnehmen müssen.
+~Weil der Zaun sonst zu teuer wird #Falsch. Die Windlast hat nichts mit den Kosten zu tun. Wind übt große Kräfte auf die Zaunfläche aus, die Konstruktion muss stabil sein.
+~Weil es eine gesetzliche Vorschrift ohne technischen Grund ist #Falsch. Die Windlast hat einen wichtigen technischen Grund\: Wind übt große Kräfte auf die Zaunfläche aus.
+~Weil sonst die Verzinkung nicht hält #Falsch. Verzinkung ist unabhängig von Windlasten. Wind übt große Kräfte auf die Zaunfläche aus, die Konstruktion muss stabil sein.
+}
+
+::Fundamenttiefe::
+[markdown]Von welchen Faktoren hängt die erforderliche Fundamenttiefe bei Zaunpfosten ab?{
+~%33.33%Höhe und Gewicht des Zauns #Richtig! Höhere und schwerere Zäune benötigen tiefere Fundamente für Stabilität.
+~%33.33%Bodenbeschaffenheit #Richtig! Weicher Boden erfordert tiefere Fundamente als fester Boden.
+~%33.33%Frosttiefe am Standort #Richtig! Fundamente müssen unterhalb der Frosttiefe liegen, um Hebungen zu vermeiden.
+~%-100%Farbe der Zaunelemente #Falsch. Die Farbe hat keinen Einfluss auf die Fundamenttiefe. Wichtig sind Zaunhöhe, Bodenbeschaffenheit und Frosttiefe.
+}
+
+::DIN 748 Anforderungen::
+[markdown]Was regelt die DIN 748 für Zaunanlagen?{
+=Sicherheitstechnische Anforderungen und Abmessungen für Zäune #Richtig! DIN 748 definiert Maße, Abstände und Sicherheitsanforderungen für Zäune.
+~Die Preise für Zaunanlagen #Falsch. Normen regeln keine Preise. DIN 748 definiert Sicherheitsanforderungen und Abmessungen.
+~Die Garantiedauer von Zaunanlagen #Falsch. Garantie ist Sache des Herstellers. DIN 748 regelt Sicherheitsanforderungen und Abmessungen.
+~Die Farbe der Zaunelemente #Falsch. Farben werden von DIN 748 nicht vorgeschrieben. Die Norm regelt Sicherheitsanforderungen und Abmessungen.
+}
+
+::Schweißverfahren Auswahl::
+[markdown]Welches Schweißverfahren eignet sich besonders gut für das Schweißen verzinkter Stahlrohre?{
+=MAG-Schweißen (Metall-Aktivgas) #Richtig! MAG-Schweißen ist für Stahl gut geeignet und kann auch verzinkte Teile verschweißen.
+~Autogenschweißen #Falsch. Autogenschweißen ist veraltet und für diese Anwendung ungeeignet. MAG-Schweißen eignet sich besser.
+~Punktschweißen #Falsch. Punktschweißen eignet sich nicht für Rohrkonstruktionen. MAG-Schweißen ist hier die richtige Wahl.
+~Laserschweißen #Falsch. Laserschweißen ist für solche Konstruktionen zu aufwendig. MAG-Schweißen eignet sich besser.
+}
+
+::Materialkalkulation::
+[markdown]Ein Zaunpfosten ist 2,50 m lang (inkl. 0,50 m im Fundament). Bei 50 m Zaunlänge mit 2,50 m Pfostenabstand\: Wie viele Pfosten werden mindestens benötigt?{
+=21 Pfosten #Richtig! Bei 50 m Länge und 2,50 m Abstand\: 50 ÷ 2,50 \= 20 Zwischenräume, also 21 Pfosten (Start- und Endpfosten).
+~20 Pfosten #Falsch. Du hast die Zwischenräume gezählt, aber vergessen, dass man einen Pfosten mehr braucht. Richtig sind 21 Pfosten (20 Felder + 1).
+~19 Pfosten #Falsch. Das sind zu wenige. Bei 50 m Länge und 2,50 m Abstand werden 21 Pfosten benötigt (20 Felder + 1).
+~25 Pfosten #Falsch. Das sind zu viele. Bei 50 m Länge und 2,50 m Abstand werden 21 Pfosten benötigt (50 ÷ 2,50 + 1).
+}
+
+::Verbindungstechnik Vergleich::
+[markdown]Was ist ein Vorteil von Schraubverbindungen gegenüber Schweißverbindungen bei Zaunanlagen?{
+=Sie sind lösbar und ermöglichen einfache Reparaturen #Richtig! Geschraubte Verbindungen können demontiert und einzelne Teile ausgetauscht werden.
+~Sie sind immer stabiler #Falsch. Schweißverbindungen sind meist stabiler. Der Vorteil von Schraubverbindungen ist die Lösbarkeit für Reparaturen.
+~Sie sind billiger in der Herstellung #Falsch. Das ist nicht generell richtig. Der Vorteil ist die Lösbarkeit und einfache Reparatur.
+~Sie benötigen keine Fachkenntnisse #Falsch. Auch Schraubverbindungen müssen fachgerecht ausgeführt werden. Der Vorteil ist die Lösbarkeit.
+}
+
+::Arbeitssicherheit Schweißen::
+[markdown]Welche Gefahr besteht beim Schweißen von verzinkten Bauteilen?{
+=Giftige Zinkdämpfe können eingeatmet werden #Richtig! Beim Erhitzen von Zink entstehen gesundheitsschädliche Dämpfe - gute Belüftung ist notwendig!
+~Der Zinküberzug erhöht die Brandgefahr #Falsch. Zink brennt nicht leicht. Die Gefahr sind giftige Zinkdämpfe, die eingeatmet werden können.
+~Die Elektroden können schneller verschleißen #Falsch. Das ist kein Sicherheitsrisiko. Die Gefahr sind giftige Zinkdämpfe beim Erhitzen.
+~Es besteht keine besondere Gefahr #Falsch! Beim Schweißen von Zink entstehen giftige Dämpfe, die gesundheitsschädlich sind.
+}
+
+::Abnahmeprotokoll::
+[markdown]Was gehört in ein professionelles Abnahmeprotokoll für eine Zaunanlage?{
+~%25%Maßkontrolle (Höhe, Abstände, Ausrichtung) #Richtig! Die Einhaltung der geplanten Maße muss dokumentiert werden.
+~%25%Prüfung der Funktionsfähigkeit (z.B. Toranlauf) #Richtig! Funktionsprüfungen sind essentieller Bestandteil der Abnahme.
+~%25%Dokumentation von Mängeln und Nachbesserungen #Richtig! Alle Mängel müssen dokumentiert und deren Behebung nachgewiesen werden.
+~%-100%Private Meinung über das Design #Falsch. Persönliche Designmeinungen gehören nicht ins Abnahmeprotokoll. Wichtig sind Maße, Funktionsprüfung und Mängeldokumentation.
+}
+
+::Wirtschaftlichkeit Werkstoffe::
+[markdown]Bei der Werkstoffauswahl für eine Zaunanlage mit 30 Jahren geplanter Lebensdauer\: Welcher Aspekt ist wirtschaftlich sinnvoll zu berücksichtigen?{
+=Lebenszykluskosten (Anschaffung + Wartung + Instandsetzung) #Richtig! Die Gesamtkosten über die Lebensdauer sind entscheidend, nicht nur der Kaufpreis.
+~Nur der niedrigste Anschaffungspreis #Falsch. Ein billiges Material kann durch hohe Wartungskosten teurer werden. Lebenszykluskosten sind entscheidend.
+~Nur die Optik des Materials #Falsch. Optik ist wichtig, aber wirtschaftlich sind die Lebenszykluskosten entscheidend.
+~Der Preis des teuersten Materials #Falsch. "Teuer" bedeutet nicht automatisch "wirtschaftlich". Lebenszykluskosten sind entscheidend.
+}
+
+::Dokumentation Wartung::
+[markdown]Ein Wartungsplan für eine Zaunanlage sollte angeben\:{
+=TRUE #Richtig! Ein Wartungsplan gibt Wartungsintervalle, durchzuführende Tätigkeiten und Prüfpunkte an.
+#Falsch. Ein professioneller Wartungsplan muss Intervalle, Tätigkeiten und Prüfpunkte enthalten.
+#### Wartungsintervalle, durchzuführende Tätigkeiten und Prüfpunkte}
